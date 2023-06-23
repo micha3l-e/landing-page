@@ -1,0 +1,19 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 800;
+    color: #f9faf8;
+}
+
+p {
+    font-size: 18px;
+    font-weight: 500;
+    color: #e5e7eb;
+}
+
+.hero, footer, nav {
+    background-color: #1f2937;
+}
