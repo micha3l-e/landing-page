@@ -311,4 +311,8 @@ footer {
     .cta-block {
         padding: 20px 40px;
     }
+
+    body {
+        background-color: #e1e0e1;
+    }
 }
